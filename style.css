@@ -7,10 +7,11 @@
 
 body {
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     min-height: 100vh;
-    background: #43AFFC;
+    background: #43affc;
 }
 
 .wrapper {
@@ -200,3 +201,25 @@ header i {
     font-size: 14px;
     margin-top: -6px;
 }
+
+.social {
+    margin-top: 12px;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: white;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: white;
+}
+
+
