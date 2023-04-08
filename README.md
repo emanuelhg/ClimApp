@@ -1,6 +1,6 @@
 ## **ClimApp:**
 
-**Demo:** [https://emanuelhg.github.io/AppClima/](https://emanuelhg.github.io/AppClima/)
+**Demo:** [https://emanuelhg.github.io/ClimApp/](https://emanuelhg.github.io/ClimApp/)
 
 Este es un sitio web que muestra información meteorológica de una ciudad. El sitio está diseñado en **HTML** y estilizado con **CSS**. También utiliza algunos iconos de la biblioteca Boxicons y fuentes de Google. El sitio se controla dinámicamente con **JavaScript**.
 
